@@ -1,1 +1,8 @@
-# DeepTraffic
+![image1](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-1.jpg?raw=true)
+![image2](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-2.jpg?raw=true)
+![image3](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-3.jpg?raw=true)
+![image4](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-4.jpg?raw=true)
+![image5](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-5.jpg?raw=true)
+![image6](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-6.jpg?raw=true)
+![image7](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-7.jpg?raw=true)
+![image8](https://github.com/Ohara124c41/DeepTraffic/blob/master/images/Ohara-MLND_Capstone-8.jpg?raw=true)
